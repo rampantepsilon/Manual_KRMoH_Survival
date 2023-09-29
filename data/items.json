@@ -1,0 +1,208 @@
+[
+	{
+		"count": 1,
+		"name": "FangJoker - Beginner",
+		"category": [
+			"Riders - Beginner"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Joker - Beginner",
+		"category": [
+			"Riders - Beginner"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Accel - Beginner",
+		"category": [
+			"Riders - Beginner"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Double - Beginner",
+		"category": [
+			"Riders - Beginner"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Zero-One - Beginner",
+		"category": [
+			"Riders - Beginner"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "OOO - Beginner",
+		"category": [
+			"Riders - Beginner"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Birth - Beginner",
+		"category": [
+			"Riders - Beginner"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Birth Prototype - Beginner",
+		"category": [
+			"Riders - Beginner"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "FangJoker - Standard",
+		"category": [
+			"Riders - Standard"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Joker - Standard",
+		"category": [
+			"Riders - Standard"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Accel - Standard",
+		"category": [
+			"Riders - Standard"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Double - Standard",
+		"category": [
+			"Riders - Standard"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Zero-One - Standard",
+		"category": [
+			"Riders - Standard"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "OOO - Standard",
+		"category": [
+			"Riders - Standard"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Birth - Standard",
+		"category": [
+			"Riders - Standard"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Birth Prototype - Standard",
+		"category": [
+			"Riders - Standard"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Cyclone Memory",
+		"category": [
+			"Henshin Devices"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Joker Memory",
+		"category": [
+			"Henshin Devices"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Accel Memory",
+		"category": [
+			"Henshin Devices"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Fang Memory",
+		"category": [
+			"Henshin Devices"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Birth Driver",
+		"category": [
+			"Henshin Devices"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Taka Metal",
+		"category": [
+			"Henshin Devices"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Tora Metal",
+		"category": [
+			"Henshin Devices"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Batta Metal",
+		"category": [
+			"Henshin Devices"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Rising Hopper Progrisekey",
+		"category": [
+			"Henshin Devices"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Victory",
+		"category": [],
+		"progression": true
+	}
+]

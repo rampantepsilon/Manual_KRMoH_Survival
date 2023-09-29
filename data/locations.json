@@ -1,0 +1,252 @@
+[
+	{
+		"name": "Starting",
+		"category": [
+			"Starting"
+		],
+		"requires": [],
+		"place_item_category": [
+			"Riders - Beginner"
+		]
+	},
+	{
+		"name": "FangJoker Beginner 5",
+		"category": [
+			"Beginner"
+		],
+		"requires": "|FangJoker - Beginner|"
+	},
+	{
+		"name": "FangJoker Beginner 10",
+		"category": [
+			"Beginner"
+		],
+		"requires": "|FangJoker - Beginner|"
+	},
+	{
+		"name": "Joker Beginner 5",
+		"category": [
+			"Beginner"
+		],
+		"requires": "|Joker - Beginner|"
+	},
+	{
+		"name": "Joker Beginner 10",
+		"category": [
+			"Beginner"
+		],
+		"requires": "|Joker - Beginner|"
+	},
+	{
+		"name": "Accel Beginner 5",
+		"category": [
+			"Beginner"
+		],
+		"requires": "|Accel - Beginner|"
+	},
+	{
+		"name": "Accel Beginner 10",
+		"category": [
+			"Beginner"
+		],
+		"requires": "|Accel - Beginner|"
+	},
+	{
+		"name": "Double Beginner 5",
+		"category": [
+			"Beginner"
+		],
+		"requires": "|Double - Beginner|"
+	},
+	{
+		"name": "Double Beginner 10",
+		"category": [
+			"Beginner"
+		],
+		"requires": "|Double - Beginner|"
+	},
+	{
+		"name": "Zero-One Beginner 5",
+		"category": [
+			"Beginner"
+		],
+		"requires": "|Zero-One - Beginner|"
+	},
+	{
+		"name": "Zero-One Beginner 10",
+		"category": [
+			"Beginner"
+		],
+		"requires": "|Zero-One - Beginner|"
+	},
+	{
+		"name": "OOO Beginner 5",
+		"category": [
+			"Beginner"
+		],
+		"requires": "|OOO - Beginner|"
+	},
+	{
+		"name": "OOO Beginner 10",
+		"category": [
+			"Beginner"
+		],
+		"requires": "|OOO - Beginner|"
+	},
+	{
+		"name": "Birth Beginner 5",
+		"category": [
+			"Beginner"
+		],
+		"requires": "|Birth - Beginner|"
+	},
+	{
+		"name": "Birth Beginner 10",
+		"category": [
+			"Beginner"
+		],
+		"requires": "|Birth - Beginner|"
+	},
+	{
+		"name": "Birth Prototype Beginner 5",
+		"category": [
+			"Beginner"
+		],
+		"requires": "|Birth Prototype - Beginner|"
+	},
+	{
+		"name": "Birth Prototype Beginner 10",
+		"category": [
+			"Beginner"
+		],
+		"requires": "|Birth Prototype - Beginner|"
+	},
+	{
+		"name": "FangJoker Standard 5",
+		"category": [
+			"Standard"
+		],
+		"requires": "|FangJoker - Standard|"
+	},
+	{
+		"name": "FangJoker Standard 10",
+		"category": [
+			"Standard"
+		],
+		"requires": "|FangJoker - Standard|"
+	},
+	{
+		"name": "Joker Standard 5",
+		"category": [
+			"Standard"
+		],
+		"requires": "|Joker - Standard|"
+	},
+	{
+		"name": "Joker Standard 10",
+		"category": [
+			"Standard"
+		],
+		"requires": "|Joker - Standard|"
+	},
+	{
+		"name": "Accel Standard 5",
+		"category": [
+			"Standard"
+		],
+		"requires": "|Accel - Standard|"
+	},
+	{
+		"name": "Accel Standard 10",
+		"category": [
+			"Standard"
+		],
+		"requires": "|Accel - Standard|"
+	},
+	{
+		"name": "Double Standard 5",
+		"category": [
+			"Standard"
+		],
+		"requires": "|Double - Standard|"
+	},
+	{
+		"name": "Double Standard 10",
+		"category": [
+			"Standard"
+		],
+		"requires": "|Double - Standard|"
+	},
+	{
+		"name": "Zero-One Standard 5",
+		"category": [
+			"Standard"
+		],
+		"requires": "|Zero-One - Standard|"
+	},
+	{
+		"name": "Zero-One Standard 10",
+		"category": [
+			"Standard"
+		],
+		"requires": "|Zero-One - Standard|"
+	},
+	{
+		"name": "OOO Standard 5",
+		"category": [
+			"Standard"
+		],
+		"requires": "|OOO - Standard|"
+	},
+	{
+		"name": "OOO Standard 10",
+		"category": [
+			"Standard"
+		],
+		"requires": "|OOO - Standard|"
+	},
+	{
+		"name": "Birth Standard 5",
+		"category": [
+			"Standard"
+		],
+		"requires": "|Birth - Standard|"
+	},
+	{
+		"name": "Birth Standard 10",
+		"category": [
+			"Standard"
+		],
+		"requires": "|Birth - Standard|"
+	},
+	{
+		"name": "Birth Prototype Standard 5",
+		"category": [
+			"Standard"
+		],
+		"requires": "|Birth Prototype - Standard|"
+	},
+	{
+		"name": "Birth Prototype Standard 10",
+		"category": [
+			"Standard"
+		],
+		"requires": "|Birth Prototype - Standard|"
+	},
+	{
+		"name": "Victory - All 9 Henshin Devices",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Cyclone Memory| AND |Joker Memory| AND |Fang Memory| AND |Accel Memory| AND |Birth Driver| AND |Taka Metal| AND |Tora Metal| AND |Batta Metal| AND |Rising Hopper Progrisekey|",
+		"victory": true
+	},
+	{
+		"name": "Victory - All 9 Henshin Devices",
+		"category": [
+			"Victory"
+		],
+		"requires": "|Cyclone Memory| AND |Joker Memory| AND |Fang Memory| AND |Accel Memory| AND |Birth Driver| AND |Taka Metal| AND |Tora Metal| AND |Batta Metal| AND |Rising Hopper Progrisekey|",
+		"place_item": "Victory"
+	}
+]
