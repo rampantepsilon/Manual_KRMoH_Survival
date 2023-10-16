@@ -1,15 +1,5 @@
 [
 	{
-		"name": "Starting",
-		"category": [
-			"Starting"
-		],
-		"requires": [],
-		"place_item_category": [
-			"Riders - Beginner"
-		]
-	},
-	{
 		"name": "FangJoker Beginner 5",
 		"category": [
 			"Beginner"
