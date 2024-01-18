@@ -3,7 +3,7 @@
 	"creator": "Survival",
 	"filler_item_name": "Blank Accelerator",
 	"background-image": "https://bunnygaming.com/wp-content/uploads/2020/11/KAMENRIDER-memory-of-heroez-Premium-Sound-Edition_20201107074725.jpg",
-	"starting-items": [
+	"starting_items": [
 		{
 			"item_categories": [
 				"Riders - Beginner"
